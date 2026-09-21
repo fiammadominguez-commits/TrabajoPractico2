@@ -1,5 +1,7 @@
 package trabajopractico2;
 
+
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
@@ -49,7 +51,7 @@ public class AdivinaElCodigo extends JFrame {
         jTextField1.setBounds(50, 140, 150, 30);
         add(jTextField1);
 
-        jButton1 = new JButton("Ayuda");
+        jButton1 = new JButton("Enter");
         jButton1.setBounds(230, 140, 100, 30);
         add(jButton1);
 
