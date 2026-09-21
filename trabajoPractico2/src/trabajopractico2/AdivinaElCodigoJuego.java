@@ -44,7 +44,7 @@ public class AdivinaElCodigoJuego extends javax.swing.JFrame {
         jDesktopPane1.setBackground(new java.awt.Color(153, 153, 255));
         jDesktopPane1.setForeground(new java.awt.Color(102, 204, 255));
 
-        jPanel1.setBackground(new java.awt.Color(204, 204, 255));
+        jPanel1.setBackground(new java.awt.Color(255, 255, 204));
 
         jPasswordField1.setText("#");
         jPasswordField1.addActionListener(new java.awt.event.ActionListener() {
